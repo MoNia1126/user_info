@@ -1,5 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firestore_user_info/input_form.dart';
+import 'package:firestore_user_info/screens/input_form.dart';
 import 'package:firestore_user_info/firebase_options.dart';
 import 'package:flutter/material.dart';
 

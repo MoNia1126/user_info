@@ -1,4 +1,4 @@
-import 'package:firestore_user_info/display_data.dart';
+import 'package:firestore_user_info/screens/display_data.dart';
 import 'package:firestore_user_info/models/user_firebase_model.dart';
 import 'package:firestore_user_info/services/user_firebase_services.dart';
 import 'package:flutter/material.dart';
