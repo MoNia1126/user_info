@@ -54,9 +54,9 @@ including adding, retrieving, and deleting user data.
 
 ## Screenshots
 
-| Add User                              | Save Date                          | Display Data                             | 
-|---------------------------------------|------------------------------------|------------------------------------------|
-| ![Add User](screenshots/add_data.png) | ![Save Date](screenshots/save.png) | ![Display Data](screenshots/display.png) | 
+| Add User                              | Save Date                          | Display Data                             | Delete Data                             | Dialog                                  | 
+|---------------------------------------|------------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
+| ![Add User](screenshots/add_data.png) | ![Save Date](screenshots/save.png) | ![Display Data](screenshots/display.png) | ![Delete Data](screenshots/delete.jpeg) | ![Delete Data](screenshots/dialog.jpeg) | 
 |
 
 ---
